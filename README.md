@@ -1,0 +1,2 @@
+# WAD
+midterm assingments
